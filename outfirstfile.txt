@@ -1,5 +1,5 @@
 this is our first fil
 
 this is a new filwe
-this is a third lin
-this is a 4th line
+<<<<<<< HEAD
+this is a third lie
